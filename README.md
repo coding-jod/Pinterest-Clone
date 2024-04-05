@@ -20,4 +20,5 @@ I have implemented the following features in this app:
       ![image](https://github.com/coding-jod/Pinterest-Clone/assets/134684474/6a3bfd33-1fee-4bc9-a960-c2424ed799ee)
   
    4. The logout button logs a user out successfully and redirects him to the Sign Up page.
+
 Thank you for paying a visit. I strive to learn and improve so any feedback is duly appreciated.
